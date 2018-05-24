@@ -1,0 +1,17 @@
+C:\Users\Aliaa\source\repos\VesselType\VesselType\bin\Debug\VesselType.exe.config
+C:\Users\Aliaa\source\repos\VesselType\VesselType\bin\Debug\VesselType.exe
+C:\Users\Aliaa\source\repos\VesselType\VesselType\bin\Debug\VesselType.pdb
+C:\Users\Aliaa\source\repos\VesselType\VesselType\bin\Debug\VesselType.xml
+C:\Users\Aliaa\source\repos\VesselType\VesselType\obj\Debug\VesselType.vbprojResolveAssemblyReference.cache
+C:\Users\Aliaa\source\repos\VesselType\VesselType\obj\Debug\VesselType.AddVessel.resources
+C:\Users\Aliaa\source\repos\VesselType\VesselType\obj\Debug\VesselType.Form1.resources
+C:\Users\Aliaa\source\repos\VesselType\VesselType\obj\Debug\VesselType.Resources.resources
+C:\Users\Aliaa\source\repos\VesselType\VesselType\obj\Debug\VesselType.vbproj.GenerateResource.cache
+C:\Users\Aliaa\source\repos\VesselType\VesselType\obj\Debug\VesselType.vbproj.CoreCompileInputs.cache
+C:\Users\Aliaa\source\repos\VesselType\VesselType\obj\Debug\VesselType.exe
+C:\Users\Aliaa\source\repos\VesselType\VesselType\obj\Debug\VesselType.xml
+C:\Users\Aliaa\source\repos\VesselType\VesselType\obj\Debug\VesselType.pdb
+C:\Users\Aliaa\source\repos\VesselType\VesselType\bin\Debug\MySql.Data.dll
+C:\Users\Aliaa\source\repos\VesselType\VesselType\bin\Debug\MySql.Data.xml
+C:\Users\Aliaa\source\repos\VesselType\VesselType\obj\Debug\VesselType.vbproj.CopyComplete
+C:\Users\Aliaa\source\repos\VesselType\VesselType\obj\Debug\VesselType.ActionVessel.resources
