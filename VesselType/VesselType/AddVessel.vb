@@ -3,6 +3,9 @@
 'Description: CTMS Vessel Type
 'Last Modification: 22 May, 2018
 
+
+
+' hello alia
 Imports MySql.Data.MySqlClient
 
 Public Class AddVessel
@@ -191,7 +194,7 @@ Public Class AddVessel
         SQLconn.Close()
 
     End Sub
-
+    '
     'on load of the page
     Private Sub AddVessel_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         ToolTip1.SetToolTip(pbAdd, "Add the Code to record.")

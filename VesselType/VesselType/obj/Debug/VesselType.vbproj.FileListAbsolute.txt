@@ -15,3 +15,7 @@ C:\Users\Aliaa\source\repos\VesselType\VesselType\bin\Debug\MySql.Data.dll
 C:\Users\Aliaa\source\repos\VesselType\VesselType\bin\Debug\MySql.Data.xml
 C:\Users\Aliaa\source\repos\VesselType\VesselType\obj\Debug\VesselType.vbproj.CopyComplete
 C:\Users\Aliaa\source\repos\VesselType\VesselType\obj\Debug\VesselType.ActionVessel.resources
+D:\Documents\GitHub\VesselType\VesselType\VesselType\bin\Debug\VesselType.exe.config
+D:\Documents\GitHub\VesselType\VesselType\VesselType\obj\Debug\VesselType.exe
+D:\Documents\GitHub\VesselType\VesselType\VesselType\obj\Debug\VesselType.xml
+D:\Documents\GitHub\VesselType\VesselType\VesselType\obj\Debug\VesselType.pdb
